@@ -10,7 +10,7 @@ public:
 
 int main() {
 	A a;
-	cout << a.loan.getLoanAmount() << endl; //Loan.cppÆÄÀÏÀ» º¸¸é ¾Ë ¼ö ÀÖÀ½.
+	cout << a.loan.getLoanAmount() << endl; //Loan.cppíŒŒì¼ ì°¸ê³ í•˜ë©´ ê°’ ì˜ˆì¸¡ ê°€ëŠ¥
 	cout << a.i << endl;
 
 	return 0;
